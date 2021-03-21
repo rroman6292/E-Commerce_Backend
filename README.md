@@ -23,3 +23,7 @@ Nothing
 If you have any questions contact me on [GitHub](https://github.com/rroman6292)
     
  
+For a video walkthrough of the MySQL shell install please click [here.](https://youtu.be/MjjPV9WdCOo)
+
+
+For a video walkthrough of the insomnia CRUD please click [here.](https://youtu.be/aHLFO_E9wOg)
